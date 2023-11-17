@@ -1,0 +1,32 @@
+{
+  "name": "shopify-test",
+  "version": "1.0.0",
+  "description": "shopify-test project",
+  "main": "gulpfile.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brzwsky/shopify-test.git"
+  },
+  "author": "Aleksei Berezovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brzwsky/shopify-test/issues"
+  },
+  "homepage": "https://github.com/brzwsky/shopify-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.69.5"
+  }
+}
